@@ -5,7 +5,6 @@
 <%
 try
 	{
-		  		
   		Class.forName("com.mysql.jdbc.Driver").newInstance();
 		Connection connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/loginsystem","root",""); 
 		Statement statement=connection.createStatement();
@@ -29,7 +28,6 @@ try
 			}
 		else 
 			{
-			
 			int i=statement.executeUpdate("UPDATE student SET password='"+newpassword+"' WHERE email='"+email+"'");	
 			%>
 			<script>
