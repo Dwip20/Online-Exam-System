@@ -27,7 +27,6 @@ String email = (String)session.getAttribute("email");
 				
 				else
 				{
-					
 					response.sendRedirect("sql-exam.html");
 				}
 		%>
