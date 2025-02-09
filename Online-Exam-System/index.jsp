@@ -15,7 +15,6 @@
 		<!-- Title -->
         <title>EDUCARE</title>
 		
-		
 		<!-- Google Fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
 
@@ -61,7 +60,6 @@
             </div>
         </div>
         <!-- End Preloader -->
-		
 		
 		<!-- Header Area -->
 		<header class="header" >
@@ -549,7 +547,7 @@
 					<div class="row">
 						<div class="col-lg-12 col-md-12 col-12">
 							<div class="copyright-content">
-								<p>© Copyright 2018  |  All Rights Reserved by Educare</a> </p>
+								<p>Â© Copyright 2018  |  All Rights Reserved by Educare</a> </p>
 							</div>
 						</div>
 					</div>
